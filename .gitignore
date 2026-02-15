@@ -8,3 +8,5 @@ bin/
 *.out
 test-c/main
 test-c/mainpp
+__pycache__/
+*.pyc
