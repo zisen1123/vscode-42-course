@@ -6,3 +6,5 @@
 bin/
 *.o
 *.out
+test-c/main
+test-c/mainpp
