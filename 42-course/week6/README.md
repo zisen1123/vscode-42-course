@@ -15,3 +15,5 @@ Acceptance:
 - Head/middle/tail deletion all work.
 - `valgrind` reports 0 definitely lost blocks.
 - Error handling exists for allocation failures.
+
+Sync tag: 2026-02-15-course-sync

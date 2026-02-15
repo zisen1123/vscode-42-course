@@ -15,3 +15,5 @@ Acceptance:
 - Each program has at least one helper function.
 - Build passes with `-Wall -Wextra -Werror`.
 - At least 6 manual test cases per program are recorded in `notes/`.
+
+Sync tag: 2026-02-15-course-sync

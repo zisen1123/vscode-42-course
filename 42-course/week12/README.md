@@ -15,3 +15,5 @@ Acceptance:
 - Hyperparameters are documented.
 - Training and validation curves are saved.
 - Final retrospective summarizes 12-week progress.
+
+Sync tag: 2026-02-15-course-sync

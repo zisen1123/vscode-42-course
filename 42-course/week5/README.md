@@ -15,3 +15,5 @@ Acceptance:
 - Project uses separate compilation.
 - Data can be saved and loaded from file.
 - Notes describe one refactor decision and why.
+
+Sync tag: 2026-02-15-course-sync

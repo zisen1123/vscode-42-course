@@ -15,3 +15,5 @@ Acceptance:
 - Loss decreases consistently.
 - Validation result is reported separately.
 - Notebook has short conclusions in `notes/`.
+
+Sync tag: 2026-02-15-course-sync

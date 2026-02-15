@@ -15,3 +15,5 @@ Acceptance:
 - Metrics are computed on validation/test only.
 - At least one threshold decision is explained.
 - Failure cases are listed in notes.
+
+Sync tag: 2026-02-15-course-sync

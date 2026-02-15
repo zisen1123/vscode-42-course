@@ -15,3 +15,5 @@ Acceptance:
 - No out-of-bounds access.
 - Word-count logic handles multiple spaces correctly.
 - Test notes include edge inputs and observed outputs.
+
+Sync tag: 2026-02-15-course-sync

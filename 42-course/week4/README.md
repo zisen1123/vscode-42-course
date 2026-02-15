@@ -15,3 +15,5 @@ Acceptance:
 - Matching lines are printed exactly once.
 - Program exits cleanly when one file fails.
 - Test cases cover missing file and long-line input.
+
+Sync tag: 2026-02-15-course-sync

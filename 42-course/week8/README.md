@@ -15,3 +15,5 @@ Acceptance:
 - Fixed random seed for reproducibility.
 - Clear train/val/test pipeline.
 - Final model choice is justified in notes.
+
+Sync tag: 2026-02-15-course-sync

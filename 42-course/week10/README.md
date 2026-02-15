@@ -15,3 +15,5 @@ Acceptance:
 - Same split used for fair comparison.
 - Hyperparameters and rationale are logged.
 - Overfit/underfit diagnosis is documented.
+
+Sync tag: 2026-02-15-course-sync

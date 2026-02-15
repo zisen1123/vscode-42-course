@@ -15,3 +15,5 @@ Acceptance:
 - Feature importance chart is produced.
 - Model comparison table is included in notes.
 - One model risk is stated explicitly.
+
+Sync tag: 2026-02-15-course-sync
