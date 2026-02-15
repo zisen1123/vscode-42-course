@@ -19,6 +19,9 @@
 - `dsa-leetcode-plan.md`：数据结构 + LeetCode 并行训练计划
 - `leetcode-notes/`：每周刷题记录模板
 - `leetcode-examples/`：22 个数据结构主题例题（每个主题至少 1 题）
+- `cnam-docs-study-notes.md`：CNAM 网络/通信文档第一轮学习笔记
+- `cnam-deep-dive.md`：IoT + NFV 深度讲解（含与 42 Paris 的联系）
+- `cnam-cards/`：20 份文档的一页学习卡片
 
 ## 学习节奏（当前）
 
