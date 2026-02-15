@@ -6,6 +6,7 @@
 
 - 课程总说明：`42-course/README.md`
 - 长期计划：`42-course/syllabus-36weeks.md`
+- LeetCode 并行训练：`42-course/dsa-leetcode-plan.md`
 - 周计划与代码：`42-course/week1` ~ `42-course/week36`
 
 ## 使用方式

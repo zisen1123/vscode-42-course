@@ -14,6 +14,8 @@
   - `notes/`：学习记录与复盘
 - `syllabus-12weeks.md`：早期 12 周基础计划
 - `syllabus-36weeks.md`：扩展后的 36 周长期计划
+- `dsa-leetcode-plan.md`：数据结构 + LeetCode 并行训练计划
+- `leetcode-notes/`：每周刷题记录模板
 
 ## 学习节奏（当前）
 
