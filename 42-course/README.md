@@ -18,6 +18,7 @@
 - `study-guide.md`：学习手册（阅读流程、Checklist、例题与讲解）
 - `dsa-leetcode-plan.md`：数据结构 + LeetCode 并行训练计划
 - `leetcode-notes/`：每周刷题记录模板
+- `leetcode-examples/`：22 个数据结构主题例题（每个主题至少 1 题）
 
 ## 学习节奏（当前）
 
