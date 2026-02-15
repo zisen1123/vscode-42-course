@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: strings and char processing (Ch.10-11)
+- 42-style extension: robust parser behavior and malformed input handling
+<!-- KNOWLEDGE_MAP_END -->

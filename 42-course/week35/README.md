@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML + C Primer Plus synthesis
+- Focus: capstone integration of systems coding + ML pipeline
+<!-- KNOWLEDGE_MAP_END -->

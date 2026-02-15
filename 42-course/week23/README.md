@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.2, Ch.5-7
+- Focus: cross-validation rigor and hyperparameter search discipline
+<!-- KNOWLEDGE_MAP_END -->

@@ -17,3 +17,9 @@ Acceptance:
 - Error handling exists for allocation failures.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: Ch.14 (+ dynamic memory review)
+- Focus: malloc/free discipline, linked-list safety checks
+<!-- KNOWLEDGE_MAP_END -->

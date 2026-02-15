@@ -17,3 +17,9 @@ Acceptance:
 - Failure cases are listed in notes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.3
+- Focus: classification metrics, confusion matrix, ROC/PR tradeoffs
+<!-- KNOWLEDGE_MAP_END -->

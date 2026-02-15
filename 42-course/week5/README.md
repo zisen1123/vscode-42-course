@@ -17,3 +17,9 @@ Acceptance:
 - Notes describe one refactor decision and why.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: Ch.12-13 (storage classes, structs)
+- Focus: struct-based data modeling and modular code layout
+<!-- KNOWLEDGE_MAP_END -->

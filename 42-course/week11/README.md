@@ -17,3 +17,9 @@ Acceptance:
 - One model risk is stated explicitly.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.6-7
+- Focus: trees, random forests, ensembles and feature-importance interpretation
+<!-- KNOWLEDGE_MAP_END -->

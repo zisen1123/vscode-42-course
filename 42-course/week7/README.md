@@ -17,3 +17,9 @@ Acceptance:
 - Notebook has short conclusions in `notes/`.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.1
+- Focus: ML problem framing, train/val/test split, baseline mindset
+<!-- KNOWLEDGE_MAP_END -->

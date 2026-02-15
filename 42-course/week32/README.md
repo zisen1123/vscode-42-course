@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.15
+- Focus: sequence modeling with RNN/LSTM and baseline comparison
+<!-- KNOWLEDGE_MAP_END -->

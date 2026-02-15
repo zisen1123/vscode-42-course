@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Full-course review
+- Focus: retrospective, profiling, long-term roadmap based on both books and project outcomes
+<!-- KNOWLEDGE_MAP_END -->

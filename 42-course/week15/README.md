@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: modularization and compilation model (Ch.12-13)
+- 42-style extension: custom static library design and integration workflow
+<!-- KNOWLEDGE_MAP_END -->

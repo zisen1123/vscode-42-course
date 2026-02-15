@@ -17,3 +17,9 @@ Acceptance:
 - Test notes include edge inputs and observed outputs.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: Ch.7-9 (arrays, strings, pointers intro)
+- Focus: line/word/char counting and pointer-safe traversal
+<!-- KNOWLEDGE_MAP_END -->

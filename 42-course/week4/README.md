@@ -17,3 +17,9 @@ Acceptance:
 - Test cases cover missing file and long-line input.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- C Primer Plus: Ch.10-11 (string funcs, file I/O)
+- Focus: fgets/strstr workflow, file error handling
+<!-- KNOWLEDGE_MAP_END -->

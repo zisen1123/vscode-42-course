@@ -17,3 +17,9 @@ Acceptance:
 - Final retrospective summarizes 12-week progress.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.10-11
+- Focus: Keras fundamentals and practical deep-net training techniques
+<!-- KNOWLEDGE_MAP_END -->

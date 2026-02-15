@@ -15,3 +15,9 @@ Acceptance:
 - Weekly retrospective includes mistakes and fixes.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.2 + project practice
+- Focus: end-to-end baseline project from raw data to reproducible training
+<!-- KNOWLEDGE_MAP_END -->

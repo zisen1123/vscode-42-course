@@ -17,3 +17,9 @@ Acceptance:
 - Overfit/underfit diagnosis is documented.
 
 Sync tag: 2026-02-15-course-sync
+
+<!-- KNOWLEDGE_MAP_START -->
+## Knowledge Mapping
+- Hands-On ML (2nd): Ch.4-5
+- Focus: linear models, regularization, SVM tuning and bias-variance checks
+<!-- KNOWLEDGE_MAP_END -->
