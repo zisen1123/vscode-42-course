@@ -10,3 +10,8 @@ test-c/main
 test-c/mainpp
 __pycache__/
 *.pyc
+.github/
+42-course/mini-utils-1/
+42-course/src/
+README.md
+test-c/
