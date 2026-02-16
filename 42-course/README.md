@@ -22,6 +22,7 @@
 - `cnam-docs-study-notes.md`：CNAM 网络/通信文档第一轮学习笔记
 - `cnam-deep-dive.md`：IoT + NFV 深度讲解（含与 42 Paris 的联系）
 - `cnam-cards/`：20 份文档的一页学习卡片
+- `cnam-relearning-plan-16weeks.md`：基于当前资料重建的 16 周系统重学教案
 
 ## 学习节奏（当前）
 

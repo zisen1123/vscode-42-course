@@ -8,6 +8,7 @@
 - 书籍索引：`42-course/book-index.md`
 - 学习手册（含例题讲解）：`42-course/study-guide.md`
 - 长期计划：`42-course/syllabus-36weeks.md`
+- CNAM 重学教案（16周）：`42-course/cnam-relearning-plan-16weeks.md`
 - LeetCode 并行训练：`42-course/dsa-leetcode-plan.md`
 - LeetCode 主题例题：`42-course/leetcode-examples/`
 - 周计划与代码：`42-course/week1` ~ `42-course/week36`
